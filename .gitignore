@@ -1,0 +1,5 @@
+.DS_Store
+.irbrc
+.irb_history
+.idea/*
+.sass-cache
